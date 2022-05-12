@@ -2,7 +2,7 @@
 	{
 		"id": 1,
 		"name": "Bulbizarre",
-		"type": [
+		"types": [
 			"Plante",
 			"Poison"
 		]
@@ -10,42 +10,42 @@
 	{
 		"id": 5,
 		"name": "Reptincel",
-		"type": [
+		"types": [
 			"Feu"
 		]
 	},
 	{
 		"id": 9,
 		"name": "Tortank",
-		"type": [
+		"types": [
 			"Eau"
 		]
 	},
 	{
 		"id": 19,
 		"name": "Rattata",
-		"type": [
+		"types": [
 			"Normal"
 		]
 	},
 	{
 		"id": 25,
 		"name": "Pikachu",
-		"type": [
+		"types": [
 			"Electrique"
 		]
 	},
 	{
 		"id": 37,
 		"name": "Goupix",
-		"type": [
+		"types": [
 			"Feu"
 		]
 	},
 	{
 		"id": 44,
 		"name": "Ortide",
-		"type": [
+		"types": [
 			"Plante",
 			"Poison"
 		]
@@ -53,28 +53,28 @@
 	{
 		"id": 50,
 		"name": "Taupiqueur",
-		"type": [
+		"types": [
 			"Sol"
 		]
 	},
 	{
 		"id": 56,
 		"name": "Férosinge",
-		"type": [
+		"types": [
 			"Combat"
 		]
 	},
 	{
 		"id": 67,
 		"name": "Machopeur",
-		"type": [
+		"types": [
 			"Combat"
 		]
 	},
 	{
 		"id": 72,
 		"name": "Tentacool",
-		"type": [
+		"types": [
 			"Eau",
 			"Poison"
 		]
@@ -82,7 +82,7 @@
 	{
 		"id": 75,
 		"name": "Gravalanch",
-		"type": [
+		"types": [
 			"Roche",
 			"Sol"
 		]
@@ -90,7 +90,7 @@
 	{
 		"id": 83,
 		"name": "Canarticho",
-		"type": [
+		"types": [
 			"Normal",
 			"Vol"
 		]
@@ -98,35 +98,35 @@
 	{
 		"id": 89,
 		"name": "Grotadmorv",
-		"type": [
+		"types": [
 			"Poison"
 		]
 	},
 	{
 		"id": 98,
 		"name": "Krabby",
-		"type": [
+		"types": [
 			"Eau"
 		]
 	},
 	{
 		"id": 106,
 		"name": "Kicklee",
-		"type": [
+		"types": [
 			"Combat"
 		]
 	},
 	{
 		"id": 108,
 		"name": "Excelangue",
-		"type": [
+		"types": [
 			"Normal"
 		]
 	},
 	{
 		"id": 112,
 		"name": "Rhinoféros",
-		"type": [
+		"types": [
 			"Sol",
 			"Roche"
 		]
@@ -134,28 +134,28 @@
 	{
 		"id": 114,
 		"name": "Saquedeneu",
-		"type": [
+		"types": [
 			"Plante"
 		]
 	},
 	{
 		"id": 126,
 		"name": "Magmar",
-		"type": [
+		"types": [
 			"Feu"
 		]
 	},
 	{
 		"id": 129,
 		"name": "Magikarp",
-		"type": [
+		"types": [
 			"Eau"
 		]
 	},
 	{
 		"id": 130,
 		"name": "Léviator",
-		"type": [
+		"types": [
 			"Eau",
 			"Vol"
 		]
@@ -163,14 +163,14 @@
 	{
 		"id": 135,
 		"name": "Voltali",
-		"type": [
+		"types": [
 			"Electrique"
 		]
 	},
 	{
 		"id": 138,
 		"name": "Amonita",
-		"type": [
+		"types": [
 			"Roche",
 			"Eau"
 		]
@@ -178,7 +178,7 @@
 	{
 		"id": 145,
 		"name": "Elektor",
-		"type": [
+		"types": [
 			"Electrique",
 			"Vol"
 		]
@@ -186,14 +186,14 @@
 	{
 		"id": 237,
 		"name": "Kapoera",
-		"type": [
+		"types": [
 			"Combat"
 		]
 	},
 	{
 		"id": 257,
 		"name": "Braségali",
-		"type": [
+		"types": [
 			"Feu",
 			"Combat"
 		]
@@ -201,7 +201,7 @@
 	{
 		"id": 286,
 		"name": "Chapignon",
-		"type": [
+		"types": [
 			"Plante",
 			"Combat"
 		]
@@ -209,14 +209,14 @@
 	{
 		"id": 377,
 		"name": "Regirock",
-		"type": [
+		"types": [
 			"Roche"
 		]
 	},
 	{
 		"id": 382,
 		"name": "Kyogre",
-		"type": [
+		"types": [
 			"Eau"
 		]
 	}
